@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Done React
+          Kiva is great
         </a>
       </header>
     </div>
